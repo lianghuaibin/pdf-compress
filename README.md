@@ -26,7 +26,7 @@ python/python3 pdfc.py -r {folder_path}
 
 2. 使用脚本
 ```
-# 压缩单个PDF
+# 压缩单个PDF 【py -3 pdfc.py -f 1234.pdf】
 python/python3 pdfc.py -f {file_name}
 # 批量压缩PDF
 python/python3 pdfc.py -r {folder_path}
